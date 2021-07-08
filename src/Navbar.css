@@ -110,7 +110,6 @@
   
     .nav-links:hover {
       color: #f00946;
-      transform: scale(1.2);
       transition: all 0.3s ease;
     }
   
