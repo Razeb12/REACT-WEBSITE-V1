@@ -66,7 +66,7 @@ function Navbar() {
                   Products
                 </Link>
               </li>
-              <li className='nav-btn'>
+             /* <li className='nav-btn'>
                 {button ? (
                   <Link to='/' className='btn-link'>
                     <Button buttonStyle='btn--outline'>SIGN UP</Button>
@@ -82,7 +82,7 @@ function Navbar() {
                     </Button>
                   </Link>
                 )}
-              </li>
+              </li> */
             </ul>
           </div>
         </nav>
